@@ -82,3 +82,4 @@ Goodbye.
 ## Version
 
 **v1.0** (27 October 2026): first delivered release.
+
